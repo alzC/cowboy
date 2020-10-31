@@ -4,6 +4,7 @@
      alt="Jeu de lettres Western"
      style="float: left; margin-right: 20px;" />
 
+Démo : https://manutrepant.github.io/cowboy/
 
 Eléve apprenant FrontEnd en javaScript voici le résultat de mon premier exercice terminé en javaScript.
 Etant apprenant n'hésitez pas à me communiquer mes erreurs éventuels afin de parfaire mon apprentisage.
